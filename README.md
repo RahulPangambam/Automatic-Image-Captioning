@@ -1,6 +1,4 @@
-# Image Caption Generator - Flickr Dataset
-
-**Complete Video Tutorial:** https://youtu.be/fUSTbGrL1tc
+# Automatic Image Captioning - Flickr Dataset
 
 # Project Information
 
